@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+venv/
+env/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Data / generated outputs
+outputs/
+experiments/
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+!assets/.gitkeep
